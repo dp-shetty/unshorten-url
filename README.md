@@ -1,8 +1,6 @@
 
 # 🌐 Unshorten URL 🚀
 
-![Unshorten URL Logo](./public/unlink.svg)
-
 ## 🗒️ Overview
 
 **Unshorten URL** is a user-friendly web application that lets you expand shortened URLs to their original format! 🌟 No more guessing where those tiny links will take you—preview them safely! 🔗✨
