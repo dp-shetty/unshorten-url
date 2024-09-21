@@ -41,7 +41,7 @@ Follow these steps to get your local copy up and running:
 
 4. **Start the development server:**
    ```bash
-   npm start
+   npm run dev
    ```
 
 5. Open your browser and go to **`http://localhost:3000`** 🌍.
@@ -54,7 +54,7 @@ Follow these steps to get your local copy up and running:
 
 ## 🤝 Contributing
 
-We welcome contributions! Here’s how you can help:
+I welcome contributions! Here’s how you can help:
 
 1. **Fork the repository.** 🍴
 2. **Create a new branch:**
